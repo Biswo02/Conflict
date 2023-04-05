@@ -1,0 +1,4 @@
+class Laptop {
+int mnum=1502835;
+String price=2555;
+}
